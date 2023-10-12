@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@700&display=swap');
+
+.font-oxanium{
+    font-family: 'Oxanium', cursive;
+}
+
+/* Gif */
+/* ${pokemonData.sprites.versions[`generation-v`][`black-white`][`animated`][`front_default`]} */
+
+/* <button type="button" class="btn text-bg-color btn-sm mt-2">type</button> */
+
+.jumbotron{
+    background-image: url(img/jumbotron.jpg);
+    background-size:cover ;
+}
+
+.btn-custom{
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.card-pokemon {
+    background-image: url(img/bg-card.jpg);
+    background-size: cover;
+}
+
+.text-bg-fire{
+    background-color: rgb(240, 42, 42);
+    color: white;
+}
+
+.text-bg-grass {
+    background-color: rgb(7, 170, 7);
+    color: white;
+}
+
+.text-bg-poison{
+    background-color: rgb(168, 5, 168);
+    color: white;
+}
+
+.text-bg-flying{
+    background-color: rgb(104, 104, 236);
+    color: white;
+}
+
+.text-bg-bug{
+    background-color: green;
+    color: white;
+}
+
+.text-bg-water{
+    background-color: blue;
+    color: white;
+}
+
+.text-bg-electric{
+    background-color: #FFCB05;
+    color: black;
+}
+
+.text-bg-normal{
+    background-color: #CCCCCC;
+    color: black;
+}
+
+.text-bg-ground{
+    background-color: #8B4513;
+    color: white;
+}
+
+.text-bg-fairy{
+    background-color: #FFB6C1;
+    color: black;
+}
+
+.text-bg-fighting{
+    background-color: #FFA500;
+    color: white;
+}
+
+.text-bg-psychic{
+    background-color: #4B0082;
+    color: white;
+}
+
+.text-bg-rock{
+    background-color: #A8A77A;
+    color: white;
+}
+
+.text-bg-steel{
+    background-color: #6d6c6c; 
+    color: white;
+}
+
+.text-bg-ice{
+    background-color: #B0E0E6; 
+    color: black;
+}
+
+.text-bg-ghost{
+    background-color: #705898;
+    color: #fff;
+}
